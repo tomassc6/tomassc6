@@ -7,9 +7,9 @@ Specializing in Artificial Intelligence & Distributed Systems
 
 ## Interests
 
-- Distributed Systems & Backend Infrastructure
+- Distributed Systems
 - Machine Learning & AI 
-- Quantitative Finance (in progress)
+- Quantitative Finance (Minor)
 
 ---
 
